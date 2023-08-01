@@ -1,2 +1,6 @@
 # hyper-v
 Win Hyper V for home edition win 11
+MAKE SURE YOU BACK UP BEFORE USING THIS
+MAKE SURE YOUR HARDWARE SUPPORTS VIRTUALIZATION IN YOUR BIOS SETTINGS
+I AM NOT RESPONSIBLE IF YOU USE THIS AND LOSE DATA JOB WIFE PET GRASP OF REALITY OR ANYTHING OF THAT NATURE
+make sure hyper v is selected in optional features (start > run > optionalfeatures.exe )
